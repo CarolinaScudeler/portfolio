@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://i.imgur.com/tgfqMKX.png">
+<img src="https://imgur.com/iTZnvAt.png">
 
 ---
 
@@ -19,8 +19,9 @@
 - [ReactJS](https://reactjs.org)
 - [NextJS](https://nextjs.org)
 - [TypeScript](https://www.typescriptlang.org)
-- [Yarn](https://yarnpkg.com)
 - [Styled Components](https://styled-components.com)
+- [Media Queries](https://mediaqueri.es/)
 - [Prettier](https://prettier.io)
+- [Yarn](https://yarnpkg.com)
 
 ---
