@@ -16,9 +16,11 @@
 
 <h2>⚙ Tecnologias utilizadas</h2>
 
-- ReactJS;
-- NextJS;
-- TypeScript;
-- SASS;
+- [ReactJS](https://reactjs.org)
+- [NextJS](https://nextjs.org)
+- [TypeScript](https://www.typescriptlang.org)
+- [Yarn](https://yarnpkg.com)
+- [Styled Components](https://styled-components.com)
+- [Prettier](https://prettier.io)
 
 ---
