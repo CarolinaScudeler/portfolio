@@ -1,10 +1,10 @@
 import Image from 'next/image';
 import profile from '../../../public/carolina-scudeler.svg';
-import { Background, Titles } from './styles';
+import { BoxNavbar, Titles } from './styles';
 
 export const Navbar = () => {
   return (
-    <Background>
+    <BoxNavbar>
       <Image src={profile} width="70" height="100" alt="Carolina Scudeler" />
 
       <Titles>
@@ -13,6 +13,6 @@ export const Navbar = () => {
         <h2>Projetos</h2>
         <h2>Contato</h2>
       </Titles>
-    </Background>
+    </BoxNavbar>
   );
 };

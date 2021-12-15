@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-export const Background = styled.div`
+export const BoxNavbar = styled.div`
   width: 100%;
   padding: 0px 100px;
 
