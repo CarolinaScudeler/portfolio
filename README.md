@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Portfólio criado para mostrar meus projetos ao decorrer da minha carreira.
+  Projeto criado para mostrar meus projetos e aprendizados ao decorrer da minha carreira
 </h3>
 
 <br>
